@@ -1,0 +1,2000 @@
+37397,16521, 617835837,  617835837,
+clock cycles         16
+Test passed 	          1, 
+
+ 1156,12784,  14778304,   14778304,
+clock cycles         16
+Test passed 	          2, 
+
+34490,50912,1755954880, 1755954880,
+clock cycles         16
+Test passed 	          3, 
+
+12994, 2359,  30652846,   30652846,
+clock cycles         16
+Test passed 	          4, 
+
+33012,34520,1139574240, 1139574240,
+clock cycles         16
+Test passed 	          5, 
+
+47908,40590,1944585720, 1944585720,
+clock cycles         16
+Test passed 	          6, 
+
+63189,50734,3205830726,-1089136570,
+clock cycles         16
+Test passed 	          7, 
+
+64766,25399,1644991634, 1644991634,
+clock cycles         16
+Test passed 	          8, 
+
+25335,21780, 551796300,  551796300,
+clock cycles         16
+Test passed 	          9, 
+
+62128,15314, 951428192,  951428192,
+clock cycles         16
+Test passed 	         10, 
+
+ 2354,51181, 120480074,  120480074,
+clock cycles         16
+Test passed 	         11, 
+
+63793,26486,1689621398, 1689621398,
+clock cycles         16
+Test passed 	         12, 
+
+29696,25290, 751011840,  751011840,
+clock cycles         16
+Test passed 	         13, 
+
+44632,24206,1080362192, 1080362192,
+clock cycles         16
+Test passed 	         14, 
+
+ 5803,12967,  75247501,   75247501,
+clock cycles         16
+Test passed 	         15, 
+
+12783,34164, 436718412,  436718412,
+clock cycles         16
+Test passed 	         16, 
+
+16443,36964, 607799052,  607799052,
+clock cycles         16
+Test passed 	         17, 
+
+54649,20173,1102434277, 1102434277,
+clock cycles         16
+Test passed 	         18, 
+
+19232, 2435,  46829920,   46829920,
+clock cycles         16
+Test passed 	         19, 
+
+ 1724,10663,  18383012,   18383012,
+clock cycles         16
+Test passed 	         20, 
+
+46496,27302,1269433792, 1269433792,
+clock cycles         16
+Test passed 	         21, 
+
+  279,22358,   6237882,    6237882,
+clock cycles         16
+Test passed 	         22, 
+
+36608,26565, 972491520,  972491520,
+clock cycles         16
+Test passed 	         23, 
+
+37252,34057,1268691364, 1268691364,
+clock cycles         16
+Test passed 	         24, 
+
+25971, 7729, 200729859,  200729859,
+clock cycles         16
+Test passed 	         25, 
+
+63849,50479,3223033671,-1071933625,
+clock cycles         16
+Test passed 	         26, 
+
+41157,27723,1140995511, 1140995511,
+clock cycles         16
+Test passed 	         27, 
+
+48161,17546, 845032906,  845032906,
+clock cycles         16
+Test passed 	         28, 
+
+62918,56067,3527623506, -767343790,
+clock cycles         16
+Test passed 	         29, 
+
+58188,55061,3203889468,-1091077828,
+clock cycles         16
+Test passed 	         30, 
+
+24181,38160, 922746960,  922746960,
+clock cycles         16
+Test passed 	         31, 
+
+ 1495,14487,  21658065,   21658065,
+clock cycles         16
+Test passed 	         32, 
+
+49907,42994,2145701558, 2145701558,
+clock cycles         16
+Test passed 	         33, 
+
+ 7628,40198, 306630344,  306630344,
+clock cycles         16
+Test passed 	         34, 
+
+16163,35498, 573754174,  573754174,
+clock cycles         16
+Test passed 	         35, 
+
+63706,60573,3858863538, -436103758,
+clock cycles         16
+Test passed 	         36, 
+
+45347,42550,1929514850, 1929514850,
+clock cycles         16
+Test passed 	         37, 
+
+53154,51130,2717764020,-1577203276,
+clock cycles         16
+Test passed 	         38, 
+
+64622,23501,1518681622, 1518681622,
+clock cycles         16
+Test passed 	         39, 
+
+20420,11901, 243018420,  243018420,
+clock cycles         16
+Test passed 	         40, 
+
+11723,50398, 590815754,  590815754,
+clock cycles         16
+Test passed 	         41, 
+
+ 9390,26659, 250328010,  250328010,
+clock cycles         16
+Test passed 	         42, 
+
+27647,10440, 288634680,  288634680,
+clock cycles         16
+Test passed 	         43, 
+
+52001,34334,1785402334, 1785402334,
+clock cycles         16
+Test passed 	         44, 
+
+24877,58456,1454209912, 1454209912,
+clock cycles         16
+Test passed 	         45, 
+
+15234,40691, 619886694,  619886694,
+clock cycles         16
+Test passed 	         46, 
+
+35085,16133, 566026305,  566026305,
+clock cycles         16
+Test passed 	         47, 
+
+46822,40154,1880090588, 1880090588,
+clock cycles         16
+Test passed 	         48, 
+
+36819,27116, 998384004,  998384004,
+clock cycles         16
+Test passed 	         49, 
+
+49881,15380, 767169780,  767169780,
+clock cycles         16
+Test passed 	         50, 
+
+44507,42123,1874768361, 1874768361,
+clock cycles         16
+Test passed 	         51, 
+
+ 8178,38157, 312047946,  312047946,
+clock cycles         16
+Test passed 	         52, 
+
+44054,17215, 758389610,  758389610,
+clock cycles         16
+Test passed 	         53, 
+
+18202,20016, 364331232,  364331232,
+clock cycles         16
+Test passed 	         54, 
+
+64822, 4989, 323396958,  323396958,
+clock cycles         16
+Test passed 	         55, 
+
+47510,20876, 991818760,  991818760,
+clock cycles         16
+Test passed 	         56, 
+
+ 6041,22994, 138906754,  138906754,
+clock cycles         16
+Test passed 	         57, 
+
+12248,41513, 508451224,  508451224,
+clock cycles         16
+Test passed 	         58, 
+
+64505,26011,1677839555, 1677839555,
+clock cycles         16
+Test passed 	         59, 
+
+29449,44329,1305444721, 1305444721,
+clock cycles         16
+Test passed 	         60, 
+
+38096,30339,1155794544, 1155794544,
+clock cycles         16
+Test passed 	         61, 
+
+27987,12959, 362683533,  362683533,
+clock cycles         16
+Test passed 	         62, 
+
+23179,28607, 663081653,  663081653,
+clock cycles         16
+Test passed 	         63, 
+
+48369,41522,2008377618, 2008377618,
+clock cycles         16
+Test passed 	         64, 
+
+26740,38153,1020211220, 1020211220,
+clock cycles         16
+Test passed 	         65, 
+
+54775,34672,1899158800, 1899158800,
+clock cycles         16
+Test passed 	         66, 
+
+61022,19807,1208662754, 1208662754,
+clock cycles         16
+Test passed 	         67, 
+
+32479,25073, 814345967,  814345967,
+clock cycles         16
+Test passed 	         68, 
+
+43791,42874,1877495334, 1877495334,
+clock cycles         16
+Test passed 	         69, 
+
+13273, 1329,  17639817,   17639817,
+clock cycles         16
+Test passed 	         70, 
+
+56176, 7182, 403456032,  403456032,
+clock cycles         16
+Test passed 	         71, 
+
+48338,23596,1140583448, 1140583448,
+clock cycles         16
+Test passed 	         72, 
+
+51829,51655,2677226995,-1617740301,
+clock cycles         16
+Test passed 	         73, 
+
+  575,11447,   6582025,    6582025,
+clock cycles         16
+Test passed 	         74, 
+
+60876, 9981, 607603356,  607603356,
+clock cycles         16
+Test passed 	         75, 
+
+60593,13988, 847574884,  847574884,
+clock cycles         16
+Test passed 	         76, 
+
+15174,58684, 890471016,  890471016,
+clock cycles         16
+Test passed 	         77, 
+
+56088,51860,2908723680,-1386243616,
+clock cycles         16
+Test passed 	         78, 
+
+ 8967,33397, 299470899,  299470899,
+clock cycles         16
+Test passed 	         79, 
+
+64467,46232,2980438344,-1314528952,
+clock cycles         16
+Test passed 	         80, 
+
+23151,50178,1161670878, 1161670878,
+clock cycles         16
+Test passed 	         81, 
+
+38013, 5776, 219563088,  219563088,
+clock cycles         16
+Test passed 	         82, 
+
+25541, 5980, 152735180,  152735180,
+clock cycles         16
+Test passed 	         83, 
+
+ 1143,36417,  41624631,   41624631,
+clock cycles         16
+Test passed 	         84, 
+
+32424,38046,1233603504, 1233603504,
+clock cycles         16
+Test passed 	         85, 
+
+ 3639,49974, 181855386,  181855386,
+clock cycles         16
+Test passed 	         86, 
+
+27956, 7863, 219818028,  219818028,
+clock cycles         16
+Test passed 	         87, 
+
+45903,14421, 661967163,  661967163,
+clock cycles         16
+Test passed 	         88, 
+
+14837,56690, 841109530,  841109530,
+clock cycles         16
+Test passed 	         89, 
+
+44859,64840,2908657560,-1386309736,
+clock cycles         16
+Test passed 	         90, 
+
+60046, 3365, 202054790,  202054790,
+clock cycles         16
+Test passed 	         91, 
+
+23792,39815, 947278480,  947278480,
+clock cycles         16
+Test passed 	         92, 
+
+52008,57402,2985363216,-1309604080,
+clock cycles         16
+Test passed 	         93, 
+
+37670,23366, 880197220,  880197220,
+clock cycles         16
+Test passed 	         94, 
+
+48794,61023,2977556262,-1317411034,
+clock cycles         16
+Test passed 	         95, 
+
+50018,48132,2407466376,-1887500920,
+clock cycles         16
+Test passed 	         96, 
+
+48987,28045,1373840415, 1373840415,
+clock cycles         16
+Test passed 	         97, 
+
+26564,48365,1284767860, 1284767860,
+clock cycles         16
+Test passed 	         98, 
+
+32041,12477, 399775557,  399775557,
+clock cycles         16
+Test passed 	         99, 
+
+35732,20725, 740545700,  740545700,
+clock cycles         16
+Test passed 	        100, 
+
+50040,10339, 517363560,  517363560,
+clock cycles         16
+Test passed 	        101, 
+
+64141, 6836, 438467876,  438467876,
+clock cycles         16
+Test passed 	        102, 
+
+ 5274,57522, 303371028,  303371028,
+clock cycles         16
+Test passed 	        103, 
+
+25317,19458, 492618186,  492618186,
+clock cycles         16
+Test passed 	        104, 
+
+42419,14732, 624916708,  624916708,
+clock cycles         16
+Test passed 	        105, 
+
+30243,17744, 536631792,  536631792,
+clock cycles         16
+Test passed 	        106, 
+
+42841,21579, 924465939,  924465939,
+clock cycles         16
+Test passed 	        107, 
+
+54431,20682,1125741942, 1125741942,
+clock cycles         16
+Test passed 	        108, 
+
+34572,29492,1019597424, 1019597424,
+clock cycles         16
+Test passed 	        109, 
+
+20439,38192, 780606288,  780606288,
+clock cycles         16
+Test passed 	        110, 
+
+38234,18102, 692111868,  692111868,
+clock cycles         16
+Test passed 	        111, 
+
+53110, 7278, 386534580,  386534580,
+clock cycles         16
+Test passed 	        112, 
+
+15567,58469, 910186923,  910186923,
+clock cycles         16
+Test passed 	        113, 
+
+58660,35327,2072281820, 2072281820,
+clock cycles         16
+Test passed 	        114, 
+
+46497,25528,1186975416, 1186975416,
+clock cycles         16
+Test passed 	        115, 
+
+56076,56582,3172892232,-1122075064,
+clock cycles         16
+Test passed 	        116, 
+
+57879,56451,3267327429,-1027639867,
+clock cycles         16
+Test passed 	        117, 
+
+51504,23078,1188609312, 1188609312,
+clock cycles         16
+Test passed 	        118, 
+
+49083,17203, 844374849,  844374849,
+clock cycles         16
+Test passed 	        119, 
+
+64878,31016,2012256048, 2012256048,
+clock cycles         16
+Test passed 	        120, 
+
+39237,24270, 952281990,  952281990,
+clock cycles         16
+Test passed 	        121, 
+
+49744,29258,1455409952, 1455409952,
+clock cycles         16
+Test passed 	        122, 
+
+58692,54441,3195251172,-1099716124,
+clock cycles         16
+Test passed 	        123, 
+
+20629,51046,1053027934, 1053027934,
+clock cycles         16
+Test passed 	        124, 
+
+32139, 1509,  48497751,   48497751,
+clock cycles         16
+Test passed 	        125, 
+
+30595,58569,1791918555, 1791918555,
+clock cycles         16
+Test passed 	        126, 
+
+39777,15025, 597649425,  597649425,
+clock cycles         16
+Test passed 	        127, 
+
+18408,46542, 856745136,  856745136,
+clock cycles         16
+Test passed 	        128, 
+
+50278,22336,1123009408, 1123009408,
+clock cycles         16
+Test passed 	        129, 
+
+52724,51519,2716287756,-1578679540,
+clock cycles         16
+Test passed 	        130, 
+
+37957, 5764, 218784148,  218784148,
+clock cycles         16
+Test passed 	        131, 
+
+42424,24938,1057969712, 1057969712,
+clock cycles         16
+Test passed 	        132, 
+
+ 3869,34483, 133414727,  133414727,
+clock cycles         16
+Test passed 	        133, 
+
+63098,35844,2261684712,-2033282584,
+clock cycles         16
+Test passed 	        134, 
+
+59567,17270,1028722090, 1028722090,
+clock cycles         16
+Test passed 	        135, 
+
+ 8384, 7615,  63844160,   63844160,
+clock cycles         16
+Test passed 	        136, 
+
+60485,43504,2631339440,-1663627856,
+clock cycles         16
+Test passed 	        137, 
+
+11033,11692, 128997836,  128997836,
+clock cycles         16
+Test passed 	        138, 
+
+29031,  627,  18202437,   18202437,
+clock cycles         16
+Test passed 	        139, 
+
+47532,27729,1318014828, 1318014828,
+clock cycles         16
+Test passed 	        140, 
+
+35134,23555, 827581370,  827581370,
+clock cycles         16
+Test passed 	        141, 
+
+ 7297,29320, 213948040,  213948040,
+clock cycles         16
+Test passed 	        142, 
+
+20678,38281, 791574518,  791574518,
+clock cycles         16
+Test passed 	        143, 
+
+49297,58396,2878747612,-1416219684,
+clock cycles         16
+Test passed 	        144, 
+
+37813,53462,2021558606, 2021558606,
+clock cycles         16
+Test passed 	        145, 
+
+ 3980,  546,   2173080,    2173080,
+clock cycles         16
+Test passed 	        146, 
+
+44077,19292, 850333484,  850333484,
+clock cycles         16
+Test passed 	        147, 
+
+35439, 2329,  82537431,   82537431,
+clock cycles         16
+Test passed 	        148, 
+
+19234,22701, 436631034,  436631034,
+clock cycles         16
+Test passed 	        149, 
+
+43715,30404,1329110860, 1329110860,
+clock cycles         16
+Test passed 	        150, 
+
+38283,64178,2456926374,-1838040922,
+clock cycles         16
+Test passed 	        151, 
+
+54964, 5057, 277952948,  277952948,
+clock cycles         16
+Test passed 	        152, 
+
+49738,21417,1065238746, 1065238746,
+clock cycles         16
+Test passed 	        153, 
+
+29656,23791, 705545896,  705545896,
+clock cycles         16
+Test passed 	        154, 
+
+ 9434,60902, 574549468,  574549468,
+clock cycles         16
+Test passed 	        155, 
+
+58554,43140,2526019560,-1768947736,
+clock cycles         16
+Test passed 	        156, 
+
+20668,38215, 789827620,  789827620,
+clock cycles         16
+Test passed 	        157, 
+
+64811, 8934, 579021474,  579021474,
+clock cycles         16
+Test passed 	        158, 
+
+49569,15989, 792558741,  792558741,
+clock cycles         16
+Test passed 	        159, 
+
+14662,32591, 477849242,  477849242,
+clock cycles         16
+Test passed 	        160, 
+
+13398,14303, 191631594,  191631594,
+clock cycles         16
+Test passed 	        161, 
+
+49990,63524,3175564760,-1119402536,
+clock cycles         16
+Test passed 	        162, 
+
+40050,41079,1645213950, 1645213950,
+clock cycles         16
+Test passed 	        163, 
+
+ 5129,64270, 329640830,  329640830,
+clock cycles         16
+Test passed 	        164, 
+
+25279,57385,1450635415, 1450635415,
+clock cycles         16
+Test passed 	        165, 
+
+47715,40159,1916186685, 1916186685,
+clock cycles         16
+Test passed 	        166, 
+
+22634,40477, 916156418,  916156418,
+clock cycles         16
+Test passed 	        167, 
+
+38178,45349,1731334122, 1731334122,
+clock cycles         16
+Test passed 	        168, 
+
+35564,28849,1025985836, 1025985836,
+clock cycles         16
+Test passed 	        169, 
+
+35811, 8588, 307544868,  307544868,
+clock cycles         16
+Test passed 	        170, 
+
+58550,17206,1007411300, 1007411300,
+clock cycles         16
+Test passed 	        171, 
+
+37528,57591,2161275048,-2133692248,
+clock cycles         16
+Test passed 	        172, 
+
+18077,11624, 210127048,  210127048,
+clock cycles         16
+Test passed 	        173, 
+
+33750,38492,1299105000, 1299105000,
+clock cycles         16
+Test passed 	        174, 
+
+34314,14510, 497896140,  497896140,
+clock cycles         16
+Test passed 	        175, 
+
+ 7649,56161, 429575489,  429575489,
+clock cycles         16
+Test passed 	        176, 
+
+31712,20245, 642009440,  642009440,
+clock cycles         16
+Test passed 	        177, 
+
+11896,43705, 519914680,  519914680,
+clock cycles         16
+Test passed 	        178, 
+
+ 4138,20491,  84791758,   84791758,
+clock cycles         16
+Test passed 	        179, 
+
+47456,23101,1096281056, 1096281056,
+clock cycles         16
+Test passed 	        180, 
+
+61067, 1756, 107233652,  107233652,
+clock cycles         16
+Test passed 	        181, 
+
+42417,15564, 660178188,  660178188,
+clock cycles         16
+Test passed 	        182, 
+
+20324,32496, 660448704,  660448704,
+clock cycles         16
+Test passed 	        183, 
+
+15841,51171, 810599811,  810599811,
+clock cycles         16
+Test passed 	        184, 
+
+  451,61890,  27912390,   27912390,
+clock cycles         16
+Test passed 	        185, 
+
+36498,55546,2027317908, 2027317908,
+clock cycles         16
+Test passed 	        186, 
+
+41490,19101, 792500490,  792500490,
+clock cycles         16
+Test passed 	        187, 
+
+28701,30369, 871620669,  871620669,
+clock cycles         16
+Test passed 	        188, 
+
+43386,64543,2800262598,-1494704698,
+clock cycles         16
+Test passed 	        189, 
+
+50909,10591, 539177219,  539177219,
+clock cycles         16
+Test passed 	        190, 
+
+49690,41835,2078781150, 2078781150,
+clock cycles         16
+Test passed 	        191, 
+
+17978,51273, 921785994,  921785994,
+clock cycles         16
+Test passed 	        192, 
+
+35819,46382,1661356858, 1661356858,
+clock cycles         16
+Test passed 	        193, 
+
+49788,21852,1087967376, 1087967376,
+clock cycles         16
+Test passed 	        194, 
+
+48751,12370, 603049870,  603049870,
+clock cycles         16
+Test passed 	        195, 
+
+56651,17825,1009804075, 1009804075,
+clock cycles         16
+Test passed 	        196, 
+
+21278, 4739, 100836442,  100836442,
+clock cycles         16
+Test passed 	        197, 
+
+39174,20741, 812507934,  812507934,
+clock cycles         16
+Test passed 	        198, 
+
+ 9359, 2660,  24894940,   24894940,
+clock cycles         16
+Test passed 	        199, 
+
+ 7881,42482, 334800642,  334800642,
+clock cycles         16
+Test passed 	        200, 
+
+11880,41873, 497451240,  497451240,
+clock cycles         16
+Test passed 	        201, 
+
+49983, 7343, 367025169,  367025169,
+clock cycles         16
+Test passed 	        202, 
+
+23045,59474,1370578330, 1370578330,
+clock cycles         16
+Test passed 	        203, 
+
+ 5666,50813, 287906458,  287906458,
+clock cycles         16
+Test passed 	        204, 
+
+33770,13602, 459339540,  459339540,
+clock cycles         16
+Test passed 	        205, 
+
+34966,62571,2187857586,-2107109710,
+clock cycles         16
+Test passed 	        206, 
+
+ 9703,47589, 461756067,  461756067,
+clock cycles         16
+Test passed 	        207, 
+
+63018,37374,2355234732,-1939732564,
+clock cycles         16
+Test passed 	        208, 
+
+53775,58594,3150892350,-1144074946,
+clock cycles         16
+Test passed 	        209, 
+
+ 7335,28547, 209392245,  209392245,
+clock cycles         16
+Test passed 	        210, 
+
+27224,45956,1251106144, 1251106144,
+clock cycles         16
+Test passed 	        211, 
+
+52897,55345,2927584465,-1367382831,
+clock cycles         16
+Test passed 	        212, 
+
+49424,42195,2085445680, 2085445680,
+clock cycles         16
+Test passed 	        213, 
+
+27833,36865,1026063545, 1026063545,
+clock cycles         16
+Test passed 	        214, 
+
+ 3589,51634, 185314426,  185314426,
+clock cycles         16
+Test passed 	        215, 
+
+61877, 5451, 337291527,  337291527,
+clock cycles         16
+Test passed 	        216, 
+
+25714,11991, 308336574,  308336574,
+clock cycles         16
+Test passed 	        217, 
+
+40256,49703,2000843968, 2000843968,
+clock cycles         16
+Test passed 	        218, 
+
+ 5545,40078, 222232510,  222232510,
+clock cycles         16
+Test passed 	        219, 
+
+ 2431,10623,  25824513,   25824513,
+clock cycles         16
+Test passed 	        220, 
+
+44165,26667,1177748055, 1177748055,
+clock cycles         16
+Test passed 	        221, 
+
+14170,52213, 739858210,  739858210,
+clock cycles         16
+Test passed 	        222, 
+
+60812,54099,3289868388,-1005098908,
+clock cycles         16
+Test passed 	        223, 
+
+56710,  121,   6861910,    6861910,
+clock cycles         16
+Test passed 	        224, 
+
+ 2020,13545,  27360900,   27360900,
+clock cycles         16
+Test passed 	        225, 
+
+ 1619,44200,  71559800,   71559800,
+clock cycles         16
+Test passed 	        226, 
+
+58110,59352,3448944720, -846022576,
+clock cycles         16
+Test passed 	        227, 
+
+51258,10469, 536620002,  536620002,
+clock cycles         16
+Test passed 	        228, 
+
+13561,48004, 650982244,  650982244,
+clock cycles         16
+Test passed 	        229, 
+
+42276,27703,1171172028, 1171172028,
+clock cycles         16
+Test passed 	        230, 
+
+52702,25102,1322925604, 1322925604,
+clock cycles         16
+Test passed 	        231, 
+
+56441,23527,1327887407, 1327887407,
+clock cycles         16
+Test passed 	        232, 
+
+17273, 6221, 107455333,  107455333,
+clock cycles         16
+Test passed 	        233, 
+
+48110,56023,2695266530,-1599700766,
+clock cycles         16
+Test passed 	        234, 
+
+59926,33672,2017828272, 2017828272,
+clock cycles         16
+Test passed 	        235, 
+
+47884,62626,2998783384,-1296183912,
+clock cycles         16
+Test passed 	        236, 
+
+50659,33010,1672253590, 1672253590,
+clock cycles         16
+Test passed 	        237, 
+
+60801,16502,1003338102, 1003338102,
+clock cycles         16
+Test passed 	        238, 
+
+57630,25325,1459479750, 1459479750,
+clock cycles         16
+Test passed 	        239, 
+
+ 6184,22451, 138836984,  138836984,
+clock cycles         16
+Test passed 	        240, 
+
+13059,55292, 722058228,  722058228,
+clock cycles         16
+Test passed 	        241, 
+
+29912,64578,1931657136, 1931657136,
+clock cycles         16
+Test passed 	        242, 
+
+  886,30597,  27108942,   27108942,
+clock cycles         16
+Test passed 	        243, 
+
+61680,19124,1179568320, 1179568320,
+clock cycles         16
+Test passed 	        244, 
+
+30578,45134,1380107452, 1380107452,
+clock cycles         16
+Test passed 	        245, 
+
+29340, 5152, 151159680,  151159680,
+clock cycles         16
+Test passed 	        246, 
+
+45616,38068,1736509888, 1736509888,
+clock cycles         16
+Test passed 	        247, 
+
+28911,15292, 442107012,  442107012,
+clock cycles         16
+Test passed 	        248, 
+
+46869,49323,2311719687,-1983247609,
+clock cycles         16
+Test passed 	        249, 
+
+60064,46136,2771112704,-1523854592,
+clock cycles         16
+Test passed 	        250, 
+
+63587,21880,1391283560, 1391283560,
+clock cycles         16
+Test passed 	        251, 
+
+34720,30940,1074236800, 1074236800,
+clock cycles         16
+Test passed 	        252, 
+
+16027,50991, 817232757,  817232757,
+clock cycles         16
+Test passed 	        253, 
+
+29026,40550,1177004300, 1177004300,
+clock cycles         16
+Test passed 	        254, 
+
+21686,63468,1376367048, 1376367048,
+clock cycles         16
+Test passed 	        255, 
+
+11751,22434, 263621934,  263621934,
+clock cycles         16
+Test passed 	        256, 
+
+42243,56530,2387996790,-1906970506,
+clock cycles         16
+Test passed 	        257, 
+
+35214,35272,1242068208, 1242068208,
+clock cycles         16
+Test passed 	        258, 
+
+45788,43206,1978316328, 1978316328,
+clock cycles         16
+Test passed 	        259, 
+
+23448,19608, 459768384,  459768384,
+clock cycles         16
+Test passed 	        260, 
+
+ 7442,14570, 108429940,  108429940,
+clock cycles         16
+Test passed 	        261, 
+
+45436,29237,1328412332, 1328412332,
+clock cycles         16
+Test passed 	        262, 
+
+38164,16090, 614058760,  614058760,
+clock cycles         16
+Test passed 	        263, 
+
+44271,62148,2751354108,-1543613188,
+clock cycles         16
+Test passed 	        264, 
+
+63199,25768,1628511832, 1628511832,
+clock cycles         16
+Test passed 	        265, 
+
+ 8366,55234, 462087644,  462087644,
+clock cycles         16
+Test passed 	        266, 
+
+28071,26263, 737228673,  737228673,
+clock cycles         16
+Test passed 	        267, 
+
+47124,  806,  37981944,   37981944,
+clock cycles         16
+Test passed 	        268, 
+
+20808,56985,1185743880, 1185743880,
+clock cycles         16
+Test passed 	        269, 
+
+13654,60990, 832757460,  832757460,
+clock cycles         16
+Test passed 	        270, 
+
+10348,15751, 162991348,  162991348,
+clock cycles         16
+Test passed 	        271, 
+
+ 4765,15423,  73490595,   73490595,
+clock cycles         16
+Test passed 	        272, 
+
+64380,11811, 760392180,  760392180,
+clock cycles         16
+Test passed 	        273, 
+
+37325,48308,1803096100, 1803096100,
+clock cycles         16
+Test passed 	        274, 
+
+58438,24017,1403505446, 1403505446,
+clock cycles         16
+Test passed 	        275, 
+
+ 1804,14727,  26567508,   26567508,
+clock cycles         16
+Test passed 	        276, 
+
+34417,26383, 908023711,  908023711,
+clock cycles         16
+Test passed 	        277, 
+
+59931,11501, 689266431,  689266431,
+clock cycles         16
+Test passed 	        278, 
+
+56483,22969,1297358027, 1297358027,
+clock cycles         16
+Test passed 	        279, 
+
+64080,15093, 967159440,  967159440,
+clock cycles         16
+Test passed 	        280, 
+
+34413, 7420, 255344460,  255344460,
+clock cycles         16
+Test passed 	        281, 
+
+33139, 2796,  92656644,   92656644,
+clock cycles         16
+Test passed 	        282, 
+
+33532,42780,1434498960, 1434498960,
+clock cycles         16
+Test passed 	        283, 
+
+33087,56442,1867496454, 1867496454,
+clock cycles         16
+Test passed 	        284, 
+
+ 1151,50920,  58608920,   58608920,
+clock cycles         16
+Test passed 	        285, 
+
+22452,62580,1405046160, 1405046160,
+clock cycles         16
+Test passed 	        286, 
+
+51289,64247,3295164383, -999802913,
+clock cycles         16
+Test passed 	        287, 
+
+ 9760,48515, 473506400,  473506400,
+clock cycles         16
+Test passed 	        288, 
+
+ 8197,37545, 307756365,  307756365,
+clock cycles         16
+Test passed 	        289, 
+
+ 1771,14460,  25608660,   25608660,
+clock cycles         16
+Test passed 	        290, 
+
+38604, 5342, 206222568,  206222568,
+clock cycles         16
+Test passed 	        291, 
+
+56870, 6267, 356404290,  356404290,
+clock cycles         16
+Test passed 	        292, 
+
+57384,43127,2474799768,-1820167528,
+clock cycles         16
+Test passed 	        293, 
+
+20687,42687, 883065969,  883065969,
+clock cycles         16
+Test passed 	        294, 
+
+31475,64136,2018680600, 2018680600,
+clock cycles         16
+Test passed 	        295, 
+
+12010,19016, 228382160,  228382160,
+clock cycles         16
+Test passed 	        296, 
+
+13656,56929, 777422424,  777422424,
+clock cycles         16
+Test passed 	        297, 
+
+23619,20272, 478804368,  478804368,
+clock cycles         16
+Test passed 	        298, 
+
+32121,41792,1342400832, 1342400832,
+clock cycles         16
+Test passed 	        299, 
+
+ 1018,18892,  19232056,   19232056,
+clock cycles         16
+Test passed 	        300, 
+
+10970,56276, 617347720,  617347720,
+clock cycles         16
+Test passed 	        301, 
+
+41686,12672, 528244992,  528244992,
+clock cycles         16
+Test passed 	        302, 
+
+11412, 4978,  56808936,   56808936,
+clock cycles         16
+Test passed 	        303, 
+
+13385, 3939,  52723515,   52723515,
+clock cycles         16
+Test passed 	        304, 
+
+18489,44314, 819321546,  819321546,
+clock cycles         16
+Test passed 	        305, 
+
+36420,56474,2056783080, 2056783080,
+clock cycles         16
+Test passed 	        306, 
+
+54662,59431,3248617322,-1046349974,
+clock cycles         16
+Test passed 	        307, 
+
+47034,60523,2846638782,-1448328514,
+clock cycles         16
+Test passed 	        308, 
+
+ 8908,50903, 453443924,  453443924,
+clock cycles         16
+Test passed 	        309, 
+
+50675,65061,3296966175, -998001121,
+clock cycles         16
+Test passed 	        310, 
+
+60959,21119,1287393121, 1287393121,
+clock cycles         16
+Test passed 	        311, 
+
+35992,53942,1941480464, 1941480464,
+clock cycles         16
+Test passed 	        312, 
+
+ 7993,31116, 248710188,  248710188,
+clock cycles         16
+Test passed 	        313, 
+
+11384,57862, 658701008,  658701008,
+clock cycles         16
+Test passed 	        314, 
+
+44598,33594,1498225212, 1498225212,
+clock cycles         16
+Test passed 	        315, 
+
+19741,35862, 707951742,  707951742,
+clock cycles         16
+Test passed 	        316, 
+
+25328,54550,1381642400, 1381642400,
+clock cycles         16
+Test passed 	        317, 
+
+36114,57820,2088111480, 2088111480,
+clock cycles         16
+Test passed 	        318, 
+
+55605,34355,1910309775, 1910309775,
+clock cycles         16
+Test passed 	        319, 
+
+29936,57819,1730869584, 1730869584,
+clock cycles         16
+Test passed 	        320, 
+
+62894,64558,4060310852, -234656444,
+clock cycles         16
+Test passed 	        321, 
+
+63788,50308,3209046704,-1085920592,
+clock cycles         16
+Test passed 	        322, 
+
+46989,36321,1706687469, 1706687469,
+clock cycles         16
+Test passed 	        323, 
+
+22177,46158,1023645966, 1023645966,
+clock cycles         16
+Test passed 	        324, 
+
+ 4857,59369, 288355233,  288355233,
+clock cycles         16
+Test passed 	        325, 
+
+54750, 3476, 190311000,  190311000,
+clock cycles         16
+Test passed 	        326, 
+
+16443,44759, 735972237,  735972237,
+clock cycles         16
+Test passed 	        327, 
+
+49454,  564,  27892056,   27892056,
+clock cycles         16
+Test passed 	        328, 
+
+43944,39735,1746114840, 1746114840,
+clock cycles         16
+Test passed 	        329, 
+
+39274,15587, 612163838,  612163838,
+clock cycles         16
+Test passed 	        330, 
+
+29260, 2882,  84327320,   84327320,
+clock cycles         16
+Test passed 	        331, 
+
+21888,57425,1256918400, 1256918400,
+clock cycles         16
+Test passed 	        332, 
+
+ 5977,50789, 303565853,  303565853,
+clock cycles         16
+Test passed 	        333, 
+
+14528,65023, 944654144,  944654144,
+clock cycles         16
+Test passed 	        334, 
+
+56917,28272,1609157424, 1609157424,
+clock cycles         16
+Test passed 	        335, 
+
+35820,24800, 888336000,  888336000,
+clock cycles         16
+Test passed 	        336, 
+
+62972,55966,3524290952, -770676344,
+clock cycles         16
+Test passed 	        337, 
+
+17661,18355, 324167655,  324167655,
+clock cycles         16
+Test passed 	        338, 
+
+24567,22598, 555165066,  555165066,
+clock cycles         16
+Test passed 	        339, 
+
+27061,27421, 742039681,  742039681,
+clock cycles         16
+Test passed 	        340, 
+
+16709,36196, 604798964,  604798964,
+clock cycles         16
+Test passed 	        341, 
+
+47335,27528,1303037880, 1303037880,
+clock cycles         16
+Test passed 	        342, 
+
+ 1890,30919,  58436910,   58436910,
+clock cycles         16
+Test passed 	        343, 
+
+59015,33469,1975173035, 1975173035,
+clock cycles         16
+Test passed 	        344, 
+
+36411,52249,1902438339, 1902438339,
+clock cycles         16
+Test passed 	        345, 
+
+30320, 5441, 164971120,  164971120,
+clock cycles         16
+Test passed 	        346, 
+
+13009,39826, 518096434,  518096434,
+clock cycles         16
+Test passed 	        347, 
+
+  506,32627,  16509262,   16509262,
+clock cycles         16
+Test passed 	        348, 
+
+32430, 8058, 261320940,  261320940,
+clock cycles         16
+Test passed 	        349, 
+
+29754,14944, 444643776,  444643776,
+clock cycles         16
+Test passed 	        350, 
+
+55306,  865,  47839690,   47839690,
+clock cycles         16
+Test passed 	        351, 
+
+35094,13419, 470926386,  470926386,
+clock cycles         16
+Test passed 	        352, 
+
+25274,32544, 822517056,  822517056,
+clock cycles         16
+Test passed 	        353, 
+
+39695,63904,2536669280,-1758298016,
+clock cycles         16
+Test passed 	        354, 
+
+64990,13709, 890947910,  890947910,
+clock cycles         16
+Test passed 	        355, 
+
+35788, 2000,  71576000,   71576000,
+clock cycles         16
+Test passed 	        356, 
+
+ 2631,38144, 100356864,  100356864,
+clock cycles         16
+Test passed 	        357, 
+
+21350,27254, 581872900,  581872900,
+clock cycles         16
+Test passed 	        358, 
+
+26028,13703, 356661684,  356661684,
+clock cycles         16
+Test passed 	        359, 
+
+33400,31304,1045553600, 1045553600,
+clock cycles         16
+Test passed 	        360, 
+
+50828,28906,1469234168, 1469234168,
+clock cycles         16
+Test passed 	        361, 
+
+49892,23705,1182689860, 1182689860,
+clock cycles         16
+Test passed 	        362, 
+
+25823,12383, 319766209,  319766209,
+clock cycles         16
+Test passed 	        363, 
+
+ 9060,40565, 367518900,  367518900,
+clock cycles         16
+Test passed 	        364, 
+
+39813,44045,1753563585, 1753563585,
+clock cycles         16
+Test passed 	        365, 
+
+47575, 1912,  90963400,   90963400,
+clock cycles         16
+Test passed 	        366, 
+
+61038,38976,2379017088,-1915950208,
+clock cycles         16
+Test passed 	        367, 
+
+59462,32884,1955348408, 1955348408,
+clock cycles         16
+Test passed 	        368, 
+
+41346,64623,2671902558,-1623064738,
+clock cycles         16
+Test passed 	        369, 
+
+20665,43456, 898018240,  898018240,
+clock cycles         16
+Test passed 	        370, 
+
+52313,45039,2356125207,-1938842089,
+clock cycles         16
+Test passed 	        371, 
+
+17342,32095, 556591490,  556591490,
+clock cycles         16
+Test passed 	        372, 
+
+38554,14454, 557259516,  557259516,
+clock cycles         16
+Test passed 	        373, 
+
+13749, 6359,  87429891,   87429891,
+clock cycles         16
+Test passed 	        374, 
+
+ 2351,34385,  80839135,   80839135,
+clock cycles         16
+Test passed 	        375, 
+
+34523,35533,1226705759, 1226705759,
+clock cycles         16
+Test passed 	        376, 
+
+41009,51812,2124758308, 2124758308,
+clock cycles         16
+Test passed 	        377, 
+
+43548,16482, 717758136,  717758136,
+clock cycles         16
+Test passed 	        378, 
+
+35213,25059, 882402567,  882402567,
+clock cycles         16
+Test passed 	        379, 
+
+30358,28239, 857279562,  857279562,
+clock cycles         16
+Test passed 	        380, 
+
+15480,37844, 585825120,  585825120,
+clock cycles         16
+Test passed 	        381, 
+
+12269,37312, 457780928,  457780928,
+clock cycles         16
+Test passed 	        382, 
+
+54679,40002,2187269358,-2107697938,
+clock cycles         16
+Test passed 	        383, 
+
+37203,58611,2180505033,-2114462263,
+clock cycles         16
+Test passed 	        384, 
+
+25579,16704, 427271616,  427271616,
+clock cycles         16
+Test passed 	        385, 
+
+59221,25486,1509306406, 1509306406,
+clock cycles         16
+Test passed 	        386, 
+
+ 4735,60836, 288058460,  288058460,
+clock cycles         16
+Test passed 	        387, 
+
+ 1125,47811,  53787375,   53787375,
+clock cycles         16
+Test passed 	        388, 
+
+56019, 3453, 193433607,  193433607,
+clock cycles         16
+Test passed 	        389, 
+
+39978,16675, 666633150,  666633150,
+clock cycles         16
+Test passed 	        390, 
+
+11269,10330, 116408770,  116408770,
+clock cycles         16
+Test passed 	        391, 
+
+20872,53828,1123498016, 1123498016,
+clock cycles         16
+Test passed 	        392, 
+
+45764,62781,2873109684,-1421857612,
+clock cycles         16
+Test passed 	        393, 
+
+33648,10771, 362422608,  362422608,
+clock cycles         16
+Test passed 	        394, 
+
+11763,25686, 302144418,  302144418,
+clock cycles         16
+Test passed 	        395, 
+
+42087, 7161, 301385007,  301385007,
+clock cycles         16
+Test passed 	        396, 
+
+64542,23177,1495889934, 1495889934,
+clock cycles         16
+Test passed 	        397, 
+
+43223,49583,2143126009, 2143126009,
+clock cycles         16
+Test passed 	        398, 
+
+52639,39585,2083714815, 2083714815,
+clock cycles         16
+Test passed 	        399, 
+
+55319,32224,1782599456, 1782599456,
+clock cycles         16
+Test passed 	        400, 
+
+42894, 6221, 266843574,  266843574,
+clock cycles         16
+Test passed 	        401, 
+
+ 3128,28289,  88487992,   88487992,
+clock cycles         16
+Test passed 	        402, 
+
+ 9067,45282, 410571894,  410571894,
+clock cycles         16
+Test passed 	        403, 
+
+11415,43762, 499543230,  499543230,
+clock cycles         16
+Test passed 	        404, 
+
+38796, 1486,  57650856,   57650856,
+clock cycles         16
+Test passed 	        405, 
+
+28446,27090, 770602140,  770602140,
+clock cycles         16
+Test passed 	        406, 
+
+37958,62685,2379397230,-1915570066,
+clock cycles         16
+Test passed 	        407, 
+
+44120,60069,2650244280,-1644723016,
+clock cycles         16
+Test passed 	        408, 
+
+57820,59948,3466193360, -828773936,
+clock cycles         16
+Test passed 	        409, 
+
+53818,48934,2633530012,-1661437284,
+clock cycles         16
+Test passed 	        410, 
+
+60202, 2030, 122210060,  122210060,
+clock cycles         16
+Test passed 	        411, 
+
+16816,53355, 897217680,  897217680,
+clock cycles         16
+Test passed 	        412, 
+
+16655,57316, 954597980,  954597980,
+clock cycles         16
+Test passed 	        413, 
+
+41707,15292, 637783444,  637783444,
+clock cycles         16
+Test passed 	        414, 
+
+41629,14996, 624268484,  624268484,
+clock cycles         16
+Test passed 	        415, 
+
+31847,58163,1852317061, 1852317061,
+clock cycles         16
+Test passed 	        416, 
+
+46594,10318, 480756892,  480756892,
+clock cycles         16
+Test passed 	        417, 
+
+39101,19985, 781433485,  781433485,
+clock cycles         16
+Test passed 	        418, 
+
+24114,22499, 542540886,  542540886,
+clock cycles         16
+Test passed 	        419, 
+
+ 1837,13540,  24872980,   24872980,
+clock cycles         16
+Test passed 	        420, 
+
+22875,28449, 650770875,  650770875,
+clock cycles         16
+Test passed 	        421, 
+
+17128,54620, 935531360,  935531360,
+clock cycles         16
+Test passed 	        422, 
+
+37896,57615,2183378040,-2111589256,
+clock cycles         16
+Test passed 	        423, 
+
+52512,59880,3144418560,-1150548736,
+clock cycles         16
+Test passed 	        424, 
+
+23825,32235, 767998875,  767998875,
+clock cycles         16
+Test passed 	        425, 
+
+17871,57618,1029691278, 1029691278,
+clock cycles         16
+Test passed 	        426, 
+
+26184,47334,1239393456, 1239393456,
+clock cycles         16
+Test passed 	        427, 
+
+53065,45213,2399227845,-1895739451,
+clock cycles         16
+Test passed 	        428, 
+
+15843,24476, 387773268,  387773268,
+clock cycles         16
+Test passed 	        429, 
+
+18562,24672, 457961664,  457961664,
+clock cycles         16
+Test passed 	        430, 
+
+44202,16211, 716558622,  716558622,
+clock cycles         16
+Test passed 	        431, 
+
+43550,10467, 455837850,  455837850,
+clock cycles         16
+Test passed 	        432, 
+
+ 9438,62459, 589488042,  589488042,
+clock cycles         16
+Test passed 	        433, 
+
+37435,49590,1856401650, 1856401650,
+clock cycles         16
+Test passed 	        434, 
+
+11758,56543, 664832594,  664832594,
+clock cycles         16
+Test passed 	        435, 
+
+51967,15251, 792548717,  792548717,
+clock cycles         16
+Test passed 	        436, 
+
+30938,62253,1925983314, 1925983314,
+clock cycles         16
+Test passed 	        437, 
+
+22498,33337, 750015826,  750015826,
+clock cycles         16
+Test passed 	        438, 
+
+ 2404,65066, 156418664,  156418664,
+clock cycles         16
+Test passed 	        439, 
+
+21946,25092, 550669032,  550669032,
+clock cycles         16
+Test passed 	        440, 
+
+40956,24882,1019067192, 1019067192,
+clock cycles         16
+Test passed 	        441, 
+
+47498,44366,2107296268, 2107296268,
+clock cycles         16
+Test passed 	        442, 
+
+20583,32628, 671582124,  671582124,
+clock cycles         16
+Test passed 	        443, 
+
+47626,56711,2700918086,-1594049210,
+clock cycles         16
+Test passed 	        444, 
+
+61747,29033,1792700651, 1792700651,
+clock cycles         16
+Test passed 	        445, 
+
+28659,19476, 558162684,  558162684,
+clock cycles         16
+Test passed 	        446, 
+
+53212,34840,1853906080, 1853906080,
+clock cycles         16
+Test passed 	        447, 
+
+63762,57066,3638642292, -656325004,
+clock cycles         16
+Test passed 	        448, 
+
+54716,55818,3054137688,-1240829608,
+clock cycles         16
+Test passed 	        449, 
+
+10760,50408, 542390080,  542390080,
+clock cycles         16
+Test passed 	        450, 
+
+ 2485,54797, 136170545,  136170545,
+clock cycles         16
+Test passed 	        451, 
+
+39652,40438,1603447576, 1603447576,
+clock cycles         16
+Test passed 	        452, 
+
+ 6816,38826, 264638016,  264638016,
+clock cycles         16
+Test passed 	        453, 
+
+39522,10976, 433793472,  433793472,
+clock cycles         16
+Test passed 	        454, 
+
+24179,31077, 751410783,  751410783,
+clock cycles         16
+Test passed 	        455, 
+
+21502,24818, 533636636,  533636636,
+clock cycles         16
+Test passed 	        456, 
+
+29235, 8376, 244872360,  244872360,
+clock cycles         16
+Test passed 	        457, 
+
+13505,32083, 433280915,  433280915,
+clock cycles         16
+Test passed 	        458, 
+
+26270,65488,1720369760, 1720369760,
+clock cycles         16
+Test passed 	        459, 
+
+23241,29728, 690908448,  690908448,
+clock cycles         16
+Test passed 	        460, 
+
+ 9621, 2308,  22205268,   22205268,
+clock cycles         16
+Test passed 	        461, 
+
+39832,55118,2195460176,-2099507120,
+clock cycles         16
+Test passed 	        462, 
+
+31821, 4120, 131102520,  131102520,
+clock cycles         16
+Test passed 	        463, 
+
+27931, 4414, 123287434,  123287434,
+clock cycles         16
+Test passed 	        464, 
+
+63028, 5429, 342179012,  342179012,
+clock cycles         16
+Test passed 	        465, 
+
+48512,36638,1777382656, 1777382656,
+clock cycles         16
+Test passed 	        466, 
+
+29858,30117, 899233386,  899233386,
+clock cycles         16
+Test passed 	        467, 
+
+34229,14085, 482115465,  482115465,
+clock cycles         16
+Test passed 	        468, 
+
+12101,48720, 589560720,  589560720,
+clock cycles         16
+Test passed 	        469, 
+
+41664,17867, 744410688,  744410688,
+clock cycles         16
+Test passed 	        470, 
+
+35148,39929,1403424492, 1403424492,
+clock cycles         16
+Test passed 	        471, 
+
+16836,28843, 485600748,  485600748,
+clock cycles         16
+Test passed 	        472, 
+
+59216, 9526, 564091616,  564091616,
+clock cycles         16
+Test passed 	        473, 
+
+60110,59033,3548473630, -746493666,
+clock cycles         16
+Test passed 	        474, 
+
+29189,31283, 913119487,  913119487,
+clock cycles         16
+Test passed 	        475, 
+
+63074,36194,2282900356,-2012066940,
+clock cycles         16
+Test passed 	        476, 
+
+29091,30244, 879828204,  879828204,
+clock cycles         16
+Test passed 	        477, 
+
+63943,38535,2464043505,-1830923791,
+clock cycles         16
+Test passed 	        478, 
+
+44564,61070,2721523480,-1573443816,
+clock cycles         16
+Test passed 	        479, 
+
+30227,18392, 555934984,  555934984,
+clock cycles         16
+Test passed 	        480, 
+
+65500,48180,3155790000,-1139177296,
+clock cycles         16
+Test passed 	        481, 
+
+54775,37842,2072795550, 2072795550,
+clock cycles         16
+Test passed 	        482, 
+
+64971,35296,2293216416,-2001750880,
+clock cycles         16
+Test passed 	        483, 
+
+34378,56760,1951295280, 1951295280,
+clock cycles         16
+Test passed 	        484, 
+
+29538, 9432, 278602416,  278602416,
+clock cycles         16
+Test passed 	        485, 
+
+46422, 1392,  64619424,   64619424,
+clock cycles         16
+Test passed 	        486, 
+
+ 3078,51997, 160046766,  160046766,
+clock cycles         16
+Test passed 	        487, 
+
+ 1251,38694,  48406194,   48406194,
+clock cycles         16
+Test passed 	        488, 
+
+24298,45924,1115861352, 1115861352,
+clock cycles         16
+Test passed 	        489, 
+
+15110,47768, 721774480,  721774480,
+clock cycles         16
+Test passed 	        490, 
+
+18356,51924, 953116944,  953116944,
+clock cycles         16
+Test passed 	        491, 
+
+48553,15940, 773934820,  773934820,
+clock cycles         16
+Test passed 	        492, 
+
+14324,25730, 368556520,  368556520,
+clock cycles         16
+Test passed 	        493, 
+
+25816,55864,1442185024, 1442185024,
+clock cycles         16
+Test passed 	        494, 
+
+60745,22190,1347931550, 1347931550,
+clock cycles         16
+Test passed 	        495, 
+
+61392,34481,2116857552, 2116857552,
+clock cycles         16
+Test passed 	        496, 
+
+47181,49598,2340083238,-1954884058,
+clock cycles         16
+Test passed 	        497, 
+
+10438,33403, 348660514,  348660514,
+clock cycles         16
+Test passed 	        498, 
+
+16454,31989, 526347006,  526347006,
+clock cycles         16
+Test passed 	        499, 
+
+33658,25862, 870463196,  870463196,
+clock cycles         16
+Test passed 	        500, 
+

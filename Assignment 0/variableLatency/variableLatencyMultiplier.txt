@@ -1,0 +1,1000 @@
+clock cycles 10:
+a=28139, b=16521, c=464884419, expected=464884419, Passed
+clock cycles 6:
+a=1156, b=12784, c=14778304, expected=14778304, Passed
+clock cycles 8:
+a=31046, b=-14624, c=-454016704, expected=-454016704, Passed
+clock cycles 8:
+a=12994, b=2359, c=30652846, expected=30652846, Passed
+clock cycles 4:
+a=32524, b=-31016, c=-1008764384, expected=-1008764384, Passed
+clock cycles 8:
+a=17628, b=-24946, c=-439748088, expected=-439748088, Passed
+clock cycles 10:
+a=2347, b=-14802, c=-34740294, expected=-34740294, Passed
+clock cycles 4:
+a=770, b=25399, c=19557230, expected=19557230, Passed
+clock cycles 8:
+a=25335, b=21780, c=551796300, expected=551796300, Passed
+clock cycles 8:
+a=3408, b=15314, c=52190112, expected=52190112, Passed
+clock cycles 8:
+a=2354, b=-14355, c=-33791670, expected=-33791670, Passed
+clock cycles 6:
+a=1743, b=26486, c=46165098, expected=46165098, Passed
+clock cycles 4:
+a=29696, b=25290, c=751011840, expected=751011840, Passed
+clock cycles 10:
+a=20904, b=24206, c=506002224, expected=506002224, Passed
+clock cycles 12:
+a=5803, b=12967, c=75247501, expected=75247501, Passed
+clock cycles 6:
+a=12783, b=-31372, c=-401028276, expected=-401028276, Passed
+clock cycles 6:
+a=16443, b=-28572, c=-469809396, expected=-469809396, Passed
+clock cycles 10:
+a=10887, b=20173, c=219623451, expected=219623451, Passed
+clock cycles 8:
+a=19232, b=2435, c=46829920, expected=46829920, Passed
+clock cycles 6:
+a=1724, b=10663, c=18383012, expected=18383012, Passed
+clock cycles 8:
+a=19040, b=27302, c=519830080, expected=519830080, Passed
+clock cycles 6:
+a=279, b=22358, c=6237882, expected=6237882, Passed
+clock cycles 4:
+a=28928, b=26565, c=768472320, expected=768472320, Passed
+clock cycles 6:
+a=28284, b=-31479, c=-890352036, expected=-890352036, Passed
+clock cycles 10:
+a=25971, b=7729, c=200729859, expected=200729859, Passed
+clock cycles 8:
+a=1687, b=-15057, c=-25401159, expected=-25401159, Passed
+clock cycles 8:
+a=24379, b=27723, c=675859017, expected=675859017, Passed
+clock cycles 6:
+a=17375, b=17546, c=304861750, expected=304861750, Passed
+clock cycles 8:
+a=2618, b=-9469, c=-24789842, expected=-24789842, Passed
+clock cycles 8:
+a=7348, b=-10475, c=-76970300, expected=-76970300, Passed
+clock cycles 10:
+a=24181, b=-27376, c=-661979056, expected=-661979056, Passed
+clock cycles 8:
+a=1495, b=14487, c=21658065, expected=21658065, Passed
+clock cycles 8:
+a=15629, b=-22542, c=-352308918, expected=-352308918, Passed
+clock cycles 6:
+a=7628, b=-25338, c=-193278264, expected=-193278264, Passed
+clock cycles 6:
+a=16163, b=-30038, c=-485504194, expected=-485504194, Passed
+clock cycles 6:
+a=1830, b=-4963, c=-9082290, expected=-9082290, Passed
+clock cycles 10:
+a=20189, b=-22986, c=-464064354, expected=-464064354, Passed
+clock cycles 6:
+a=12382, b=-14406, c=-178375092, expected=-178375092, Passed
+clock cycles 6:
+a=914, b=23501, c=21479914, expected=21479914, Passed
+clock cycles 6:
+a=20420, b=11901, c=243018420, expected=243018420, Passed
+clock cycles 10:
+a=11723, b=-15138, c=-177462774, expected=-177462774, Passed
+clock cycles 10:
+a=9390, b=26659, c=250328010, expected=250328010, Passed
+clock cycles 6:
+a=27647, b=10440, c=288634680, expected=288634680, Passed
+clock cycles 8:
+a=13535, b=-31202, c=-422319070, expected=-422319070, Passed
+clock cycles 10:
+a=24877, b=-7080, c=-176129160, expected=-176129160, Passed
+clock cycles 6:
+a=15234, b=-24845, c=-378488730, expected=-378488730, Passed
+clock cycles 8:
+a=30451, b=16133, c=491265983, expected=491265983, Passed
+clock cycles 10:
+a=18714, b=-25382, c=-474998748, expected=-474998748, Passed
+clock cycles 8:
+a=28717, b=27116, c=778690172, expected=778690172, Passed
+clock cycles 8:
+a=15655, b=15380, c=240773900, expected=240773900, Passed
+clock cycles 12:
+a=21029, b=-23413, c=-492351977, expected=-492351977, Passed
+clock cycles 4:
+a=8178, b=-27379, c=-223905462, expected=-223905462, Passed
+clock cycles 10:
+a=21482, b=17215, c=369812630, expected=369812630, Passed
+clock cycles 8:
+a=18202, b=20016, c=364331232, expected=364331232, Passed
+clock cycles 8:
+a=714, b=4989, c=3562146, expected=3562146, Passed
+clock cycles 10:
+a=18026, b=20876, c=376310776, expected=376310776, Passed
+clock cycles 8:
+a=6041, b=22994, c=138906754, expected=138906754, Passed
+clock cycles 6:
+a=12248, b=-24023, c=-294233704, expected=-294233704, Passed
+clock cycles 4:
+a=1031, b=26011, c=26817341, expected=26817341, Passed
+clock cycles 8:
+a=29449, b=-21207, c=-624524943, expected=-624524943, Passed
+clock cycles 8:
+a=27440, b=30339, c=832502160, expected=832502160, Passed
+clock cycles 12:
+a=27987, b=12959, c=362683533, expected=362683533, Passed
+clock cycles 12:
+a=23179, b=28607, c=663081653, expected=663081653, Passed
+clock cycles 6:
+a=17167, b=-24014, c=-412248338, expected=-412248338, Passed
+clock cycles 8:
+a=26740, b=-27383, c=-732221420, expected=-732221420, Passed
+clock cycles 10:
+a=10761, b=-30864, c=-332127504, expected=-332127504, Passed
+clock cycles 8:
+a=4514, b=19807, c=89408798, expected=89408798, Passed
+clock cycles 6:
+a=32479, b=25073, c=814345967, expected=814345967, Passed
+clock cycles 10:
+a=21745, b=-22662, c=-492785190, expected=-492785190, Passed
+clock cycles 8:
+a=13273, b=1329, c=17639817, expected=17639817, Passed
+clock cycles 8:
+a=9360, b=7182, c=67223520, expected=67223520, Passed
+clock cycles 8:
+a=17198, b=23596, c=405804008, expected=405804008, Passed
+clock cycles 10:
+a=13707, b=-13881, c=-190266867, expected=-190266867, Passed
+clock cycles 4:
+a=575, b=11447, c=6582025, expected=6582025, Passed
+clock cycles 8:
+a=4660, b=9981, c=46511460, expected=46511460, Passed
+clock cycles 8:
+a=4943, b=13988, c=69142684, expected=69142684, Passed
+clock cycles 8:
+a=15174, b=-6852, c=-103972248, expected=-103972248, Passed
+clock cycles 8:
+a=9448, b=-13676, c=-129210848, expected=-129210848, Passed
+clock cycles 6:
+a=8967, b=-32139, c=-288190413, expected=-288190413, Passed
+clock cycles 8:
+a=1069, b=-19304, c=-20635976, expected=-20635976, Passed
+clock cycles 10:
+a=23151, b=-15358, c=-355553058, expected=-355553058, Passed
+clock cycles 8:
+a=27523, b=5776, c=158972848, expected=158972848, Passed
+clock cycles 8:
+a=25541, b=5980, c=152735180, expected=152735180, Passed
+clock cycles 6:
+a=1143, b=-29119, c=-33283017, expected=-33283017, Passed
+clock cycles 8:
+a=32424, b=-27490, c=-891335760, expected=-891335760, Passed
+clock cycles 6:
+a=3639, b=-15562, c=-56630118, expected=-56630118, Passed
+clock cycles 10:
+a=27956, b=7863, c=219818028, expected=219818028, Passed
+clock cycles 10:
+a=19633, b=14421, c=283127493, expected=283127493, Passed
+clock cycles 8:
+a=14837, b=-8846, c=-131248102, expected=-131248102, Passed
+clock cycles 10:
+a=20677, b=-696, c=-14391192, expected=-14391192, Passed
+clock cycles 10:
+a=5490, b=3365, c=18473850, expected=18473850, Passed
+clock cycles 6:
+a=23792, b=-25721, c=-611954032, expected=-611954032, Passed
+clock cycles 8:
+a=13528, b=-8134, c=-110036752, expected=-110036752, Passed
+clock cycles 10:
+a=27866, b=23366, c=651116956, expected=651116956, Passed
+clock cycles 8:
+a=16742, b=-4513, c=-75556646, expected=-75556646, Passed
+clock cycles 6:
+a=15518, b=-17404, c=-270075272, expected=-270075272, Passed
+clock cycles 10:
+a=16549, b=28045, c=464116705, expected=464116705, Passed
+clock cycles 6:
+a=26564, b=-17171, c=-456130444, expected=-456130444, Passed
+clock cycles 10:
+a=32041, b=12477, c=399775557, expected=399775557, Passed
+clock cycles 8:
+a=29804, b=20725, c=617687900, expected=617687900, Passed
+clock cycles 6:
+a=15496, b=10339, c=160213144, expected=160213144, Passed
+clock cycles 8:
+a=1395, b=6836, c=9536220, expected=9536220, Passed
+clock cycles 10:
+a=5274, b=-8014, c=-42265836, expected=-42265836, Passed
+clock cycles 10:
+a=25317, b=19458, c=492618186, expected=492618186, Passed
+clock cycles 12:
+a=23117, b=14732, c=340559644, expected=340559644, Passed
+clock cycles 8:
+a=30243, b=17744, c=536631792, expected=536631792, Passed
+clock cycles 10:
+a=22695, b=21579, c=489735405, expected=489735405, Passed
+clock cycles 10:
+a=11105, b=20682, c=229673610, expected=229673610, Passed
+clock cycles 6:
+a=30964, b=29492, c=913190288, expected=913190288, Passed
+clock cycles 8:
+a=20439, b=-27344, c=-558884016, expected=-558884016, Passed
+clock cycles 12:
+a=27302, b=18102, c=494220804, expected=494220804, Passed
+clock cycles 8:
+a=12426, b=7278, c=90436428, expected=90436428, Passed
+clock cycles 6:
+a=15567, b=-7067, c=-110011989, expected=-110011989, Passed
+clock cycles 8:
+a=6876, b=-30209, c=-207717084, expected=-207717084, Passed
+clock cycles 10:
+a=19039, b=25528, c=486027592, expected=486027592, Passed
+clock cycles 8:
+a=9460, b=-8954, c=-84704840, expected=-84704840, Passed
+clock cycles 8:
+a=7657, b=-9085, c=-69563845, expected=-69563845, Passed
+clock cycles 8:
+a=14032, b=23078, c=323830496, expected=323830496, Passed
+clock cycles 8:
+a=16453, b=17203, c=283040959, expected=283040959, Passed
+clock cycles 8:
+a=658, b=31016, c=20408528, expected=20408528, Passed
+clock cycles 10:
+a=26299, b=24270, c=638276730, expected=638276730, Passed
+clock cycles 6:
+a=15792, b=29258, c=462042336, expected=462042336, Passed
+clock cycles 8:
+a=6844, b=-11095, c=-75934180, expected=-75934180, Passed
+clock cycles 12:
+a=20629, b=-14490, c=-298914210, expected=-298914210, Passed
+clock cycles 8:
+a=32139, b=1509, c=48497751, expected=48497751, Passed
+clock cycles 6:
+a=30595, b=-6967, c=-213155365, expected=-213155365, Passed
+clock cycles 8:
+a=25759, b=15025, c=387028975, expected=387028975, Passed
+clock cycles 6:
+a=18408, b=-18994, c=-349641552, expected=-349641552, Passed
+clock cycles 8:
+a=15258, b=22336, c=340802688, expected=340802688, Passed
+clock cycles 6:
+a=12812, b=-14017, c=-179585804, expected=-179585804, Passed
+clock cycles 10:
+a=27579, b=5764, c=158965356, expected=158965356, Passed
+clock cycles 10:
+a=23112, b=24938, c=576367056, expected=576367056, Passed
+clock cycles 6:
+a=3869, b=-31053, c=-120144057, expected=-120144057, Passed
+clock cycles 6:
+a=2438, b=-29692, c=-72389096, expected=-72389096, Passed
+clock cycles 10:
+a=5969, b=17270, c=103084630, expected=103084630, Passed
+clock cycles 4:
+a=8384, b=7615, c=63844160, expected=63844160, Passed
+clock cycles 8:
+a=5051, b=-22032, c=-111283632, expected=-111283632, Passed
+clock cycles 10:
+a=11033, b=11692, c=128997836, expected=128997836, Passed
+clock cycles 8:
+a=29031, b=627, c=18202437, expected=18202437, Passed
+clock cycles 10:
+a=18004, b=27729, c=499232916, expected=499232916, Passed
+clock cycles 8:
+a=30402, b=23555, c=716119110, expected=716119110, Passed
+clock cycles 6:
+a=7297, b=29320, c=213948040, expected=213948040, Passed
+clock cycles 8:
+a=20678, b=-27255, c=-563578890, expected=-563578890, Passed
+clock cycles 6:
+a=16239, b=-7140, c=-115946460, expected=-115946460, Passed
+clock cycles 10:
+a=27723, b=-12074, c=-334727502, expected=-334727502, Passed
+clock cycles 4:
+a=3980, b=546, c=2173080, expected=2173080, Passed
+clock cycles 10:
+a=21459, b=19292, c=413987028, expected=413987028, Passed
+clock cycles 10:
+a=30097, b=2329, c=70095913, expected=70095913, Passed
+clock cycles 10:
+a=19234, b=22701, c=436631034, expected=436631034, Passed
+clock cycles 12:
+a=21821, b=30404, c=663445684, expected=663445684, Passed
+clock cycles 12:
+a=27253, b=-1358, c=-37009574, expected=-37009574, Passed
+clock cycles 10:
+a=10572, b=5057, c=53462604, expected=53462604, Passed
+clock cycles 8:
+a=15798, b=21417, c=338345766, expected=338345766, Passed
+clock cycles 6:
+a=29656, b=23791, c=705545896, expected=705545896, Passed
+clock cycles 10:
+a=9434, b=-4634, c=-43717156, expected=-43717156, Passed
+clock cycles 8:
+a=6982, b=-22396, c=-156368872, expected=-156368872, Passed
+clock cycles 8:
+a=20668, b=-27321, c=-564670428, expected=-564670428, Passed
+clock cycles 10:
+a=725, b=8934, c=6477150, expected=6477150, Passed
+clock cycles 6:
+a=15967, b=15989, c=255296363, expected=255296363, Passed
+clock cycles 8:
+a=14662, b=32591, c=477849242, expected=477849242, Passed
+clock cycles 10:
+a=13398, b=14303, c=191631594, expected=191631594, Passed
+clock cycles 8:
+a=15546, b=-2012, c=-31278552, expected=-31278552, Passed
+clock cycles 6:
+a=25486, b=-24457, c=-623311102, expected=-623311102, Passed
+clock cycles 8:
+a=5129, b=-1266, c=-6493314, expected=-6493314, Passed
+clock cycles 8:
+a=25279, b=-8151, c=-206049129, expected=-206049129, Passed
+clock cycles 10:
+a=17821, b=-25377, c=-452243517, expected=-452243517, Passed
+clock cycles 10:
+a=22634, b=-25059, c=-567185406, expected=-567185406, Passed
+clock cycles 10:
+a=27358, b=-20187, c=-552275946, expected=-552275946, Passed
+clock cycles 10:
+a=29972, b=28849, c=864662228, expected=864662228, Passed
+clock cycles 8:
+a=29725, b=8588, c=255278300, expected=255278300, Passed
+clock cycles 10:
+a=6986, b=17206, c=120201116, expected=120201116, Passed
+clock cycles 10:
+a=28008, b=-7945, c=-222523560, expected=-222523560, Passed
+clock cycles 10:
+a=18077, b=11624, c=210127048, expected=210127048, Passed
+clock cycles 8:
+a=31786, b=-27044, c=-859620584, expected=-859620584, Passed
+clock cycles 6:
+a=31222, b=14510, c=453031220, expected=453031220, Passed
+clock cycles 6:
+a=7649, b=-9375, c=-71709375, expected=-71709375, Passed
+clock cycles 4:
+a=31712, b=20245, c=642009440, expected=642009440, Passed
+clock cycles 6:
+a=11896, b=-21831, c=-259701576, expected=-259701576, Passed
+clock cycles 8:
+a=4138, b=20491, c=84791758, expected=84791758, Passed
+clock cycles 8:
+a=18080, b=23101, c=417666080, expected=417666080, Passed
+clock cycles 10:
+a=4469, b=1756, c=7847564, expected=7847564, Passed
+clock cycles 10:
+a=23119, b=15564, c=359824116, expected=359824116, Passed
+clock cycles 8:
+a=20324, b=32496, c=660448704, expected=660448704, Passed
+clock cycles 6:
+a=15841, b=-14365, c=-227555965, expected=-227555965, Passed
+clock cycles 4:
+a=451, b=-3646, c=-1644346, expected=-1644346, Passed
+clock cycles 8:
+a=29038, b=-9990, c=-290089620, expected=-290089620, Passed
+clock cycles 8:
+a=24046, b=19101, c=459302646, expected=459302646, Passed
+clock cycles 6:
+a=28701, b=30369, c=871620669, expected=871620669, Passed
+clock cycles 10:
+a=22150, b=-993, c=-21994950, expected=-21994950, Passed
+clock cycles 8:
+a=14627, b=10591, c=154914557, expected=154914557, Passed
+clock cycles 6:
+a=15846, b=-23701, c=-375566046, expected=-375566046, Passed
+clock cycles 8:
+a=17978, b=-14263, c=-256420214, expected=-256420214, Passed
+clock cycles 10:
+a=29717, b=-19154, c=-569199418, expected=-569199418, Passed
+clock cycles 6:
+a=15748, b=21852, c=344125296, expected=344125296, Passed
+clock cycles 8:
+a=16785, b=12370, c=207630450, expected=207630450, Passed
+clock cycles 12:
+a=8885, b=17825, c=158375125, expected=158375125, Passed
+clock cycles 8:
+a=21278, b=4739, c=100836442, expected=100836442, Passed
+clock cycles 8:
+a=26362, b=20741, c=546774242, expected=546774242, Passed
+clock cycles 8:
+a=9359, b=2660, c=24894940, expected=24894940, Passed
+clock cycles 8:
+a=7881, b=-23054, c=-181688574, expected=-181688574, Passed
+clock cycles 8:
+a=11880, b=-23663, c=-281116440, expected=-281116440, Passed
+clock cycles 6:
+a=15553, b=7343, c=114205679, expected=114205679, Passed
+clock cycles 10:
+a=23045, b=-6062, c=-139698790, expected=-139698790, Passed
+clock cycles 8:
+a=5666, b=-14723, c=-83420518, expected=-83420518, Passed
+clock cycles 6:
+a=31766, b=13602, c=432081132, expected=432081132, Passed
+clock cycles 10:
+a=30570, b=-2965, c=-90640050, expected=-90640050, Passed
+clock cycles 8:
+a=9703, b=-17947, c=-174139741, expected=-174139741, Passed
+clock cycles 8:
+a=2518, b=-28162, c=-70911916, expected=-70911916, Passed
+clock cycles 8:
+a=11761, b=-6942, c=-81644862, expected=-81644862, Passed
+clock cycles 8:
+a=7335, b=28547, c=209392245, expected=209392245, Passed
+clock cycles 10:
+a=27224, b=-19580, c=-533045920, expected=-533045920, Passed
+clock cycles 8:
+a=12639, b=-10191, c=-128804049, expected=-128804049, Passed
+clock cycles 4:
+a=16112, b=-23341, c=-376070192, expected=-376070192, Passed
+clock cycles 10:
+a=27833, b=-28671, c=-797999943, expected=-797999943, Passed
+clock cycles 6:
+a=3589, b=-13902, c=-49894278, expected=-49894278, Passed
+clock cycles 8:
+a=3659, b=5451, c=19945209, expected=19945209, Passed
+clock cycles 8:
+a=25714, b=11991, c=308336574, expected=308336574, Passed
+clock cycles 6:
+a=25280, b=-15833, c=-400258240, expected=-400258240, Passed
+clock cycles 12:
+a=5545, b=-25458, c=-141164610, expected=-141164610, Passed
+clock cycles 6:
+a=2431, b=10623, c=25824513, expected=25824513, Passed
+clock cycles 10:
+a=21371, b=26667, c=569900457, expected=569900457, Passed
+clock cycles 10:
+a=14170, b=-13323, c=-188786910, expected=-188786910, Passed
+clock cycles 8:
+a=4724, b=-11437, c=-54028388, expected=-54028388, Passed
+clock cycles 8:
+a=8826, b=121, c=1067946, expected=1067946, Passed
+clock cycles 4:
+a=2020, b=13545, c=27360900, expected=27360900, Passed
+clock cycles 8:
+a=1619, b=-21336, c=-34542984, expected=-34542984, Passed
+clock cycles 6:
+a=7426, b=-6184, c=-45922384, expected=-45922384, Passed
+clock cycles 6:
+a=14278, b=10469, c=149476382, expected=149476382, Passed
+clock cycles 8:
+a=13561, b=-17532, c=-237751452, expected=-237751452, Passed
+clock cycles 10:
+a=23260, b=27703, c=644371780, expected=644371780, Passed
+clock cycles 8:
+a=12834, b=25102, c=322159068, expected=322159068, Passed
+clock cycles 6:
+a=9095, b=23527, c=213978065, expected=213978065, Passed
+clock cycles 8:
+a=17273, b=6221, c=107455333, expected=107455333, Passed
+clock cycles 8:
+a=17426, b=-9513, c=-165773538, expected=-165773538, Passed
+clock cycles 10:
+a=5610, b=-31864, c=-178757040, expected=-178757040, Passed
+clock cycles 8:
+a=17652, b=-2910, c=-51367320, expected=-51367320, Passed
+clock cycles 8:
+a=14877, b=-32526, c=-483889302, expected=-483889302, Passed
+clock cycles 6:
+a=4735, b=16502, c=78136970, expected=78136970, Passed
+clock cycles 6:
+a=7906, b=25325, c=200219450, expected=200219450, Passed
+clock cycles 6:
+a=6184, b=22451, c=138836984, expected=138836984, Passed
+clock cycles 6:
+a=13059, b=-10244, c=-133776396, expected=-133776396, Passed
+clock cycles 8:
+a=29912, b=-958, c=-28655696, expected=-28655696, Passed
+clock cycles 6:
+a=886, b=30597, c=27108942, expected=27108942, Passed
+clock cycles 4:
+a=3856, b=19124, c=73742144, expected=73742144, Passed
+clock cycles 8:
+a=30578, b=-20402, c=-623852356, expected=-623852356, Passed
+clock cycles 8:
+a=29340, b=5152, c=151159680, expected=151159680, Passed
+clock cycles 8:
+a=19920, b=-27468, c=-547162560, expected=-547162560, Passed
+clock cycles 6:
+a=28911, b=15292, c=442107012, expected=442107012, Passed
+clock cycles 10:
+a=18667, b=-16213, c=-302648071, expected=-302648071, Passed
+clock cycles 8:
+a=5472, b=-19400, c=-106156800, expected=-106156800, Passed
+clock cycles 6:
+a=1949, b=21880, c=42644120, expected=42644120, Passed
+clock cycles 4:
+a=30816, b=30940, c=953447040, expected=953447040, Passed
+clock cycles 8:
+a=16027, b=-14545, c=-233112715, expected=-233112715, Passed
+clock cycles 8:
+a=29026, b=-24986, c=-725243636, expected=-725243636, Passed
+clock cycles 12:
+a=21686, b=-2068, c=-44846648, expected=-44846648, Passed
+clock cycles 8:
+a=11751, b=22434, c=263621934, expected=263621934, Passed
+clock cycles 10:
+a=23293, b=-9006, c=-209776758, expected=-209776758, Passed
+clock cycles 8:
+a=30322, b=-30264, c=-917665008, expected=-917665008, Passed
+clock cycles 10:
+a=19748, b=-22330, c=-440972840, expected=-440972840, Passed
+clock cycles 8:
+a=23448, b=19608, c=459768384, expected=459768384, Passed
+clock cycles 8:
+a=7442, b=14570, c=108429940, expected=108429940, Passed
+clock cycles 8:
+a=20100, b=29237, c=587663700, expected=587663700, Passed
+clock cycles 10:
+a=27372, b=16090, c=440415480, expected=440415480, Passed
+clock cycles 10:
+a=21265, b=-3388, c=-72045820, expected=-72045820, Passed
+clock cycles 8:
+a=2337, b=25768, c=60219816, expected=60219816, Passed
+clock cycles 8:
+a=8366, b=-10302, c=-86186532, expected=-86186532, Passed
+clock cycles 10:
+a=28071, b=26263, c=737228673, expected=737228673, Passed
+clock cycles 6:
+a=18412, b=806, c=14840072, expected=14840072, Passed
+clock cycles 10:
+a=20808, b=-8551, c=-177929208, expected=-177929208, Passed
+clock cycles 12:
+a=13654, b=-4546, c=-62071084, expected=-62071084, Passed
+clock cycles 8:
+a=10348, b=15751, c=162991348, expected=162991348, Passed
+clock cycles 10:
+a=4765, b=15423, c=73490595, expected=73490595, Passed
+clock cycles 6:
+a=1156, b=11811, c=13653516, expected=13653516, Passed
+clock cycles 8:
+a=28211, b=-17228, c=-486019108, expected=-486019108, Passed
+clock cycles 8:
+a=7098, b=24017, c=170472666, expected=170472666, Passed
+clock cycles 4:
+a=1804, b=14727, c=26567508, expected=26567508, Passed
+clock cycles 6:
+a=31119, b=26383, c=821012577, expected=821012577, Passed
+clock cycles 10:
+a=5605, b=11501, c=64463105, expected=64463105, Passed
+clock cycles 10:
+a=9053, b=22969, c=207938357, expected=207938357, Passed
+clock cycles 6:
+a=1456, b=15093, c=21975408, expected=21975408, Passed
+clock cycles 8:
+a=31123, b=7420, c=230932660, expected=230932660, Passed
+clock cycles 8:
+a=32397, b=2796, c=90582012, expected=90582012, Passed
+clock cycles 6:
+a=32004, b=-22756, c=-728283024, expected=-728283024, Passed
+clock cycles 6:
+a=32449, b=-9094, c=-295091206, expected=-295091206, Passed
+clock cycles 4:
+a=1151, b=-14616, c=-16823016, expected=-16823016, Passed
+clock cycles 10:
+a=22452, b=-2956, c=-66368112, expected=-66368112, Passed
+clock cycles 8:
+a=14247, b=-1289, c=-18364383, expected=-18364383, Passed
+clock cycles 6:
+a=9760, b=-17021, c=-166124960, expected=-166124960, Passed
+clock cycles 6:
+a=8197, b=-27991, c=-229442227, expected=-229442227, Passed
+clock cycles 8:
+a=1771, b=14460, c=25608660, expected=25608660, Passed
+clock cycles 10:
+a=26932, b=5342, c=143870744, expected=143870744, Passed
+clock cycles 8:
+a=8666, b=6267, c=54309822, expected=54309822, Passed
+clock cycles 4:
+a=8152, b=-22409, c=-182678168, expected=-182678168, Passed
+clock cycles 8:
+a=20687, b=-22849, c=-472677263, expected=-472677263, Passed
+clock cycles 8:
+a=31475, b=-1400, c=-44065000, expected=-44065000, Passed
+clock cycles 10:
+a=12010, b=19016, c=228382160, expected=228382160, Passed
+clock cycles 10:
+a=13656, b=-8607, c=-117537192, expected=-117537192, Passed
+clock cycles 8:
+a=23619, b=20272, c=478804368, expected=478804368, Passed
+clock cycles 8:
+a=32121, b=-23744, c=-762681024, expected=-762681024, Passed
+clock cycles 4:
+a=1018, b=18892, c=19232056, expected=19232056, Passed
+clock cycles 12:
+a=10970, b=-9260, c=-101582200, expected=-101582200, Passed
+clock cycles 12:
+a=23850, b=12672, c=302227200, expected=302227200, Passed
+clock cycles 10:
+a=11412, b=4978, c=56808936, expected=56808936, Passed
+clock cycles 10:
+a=13385, b=3939, c=52723515, expected=52723515, Passed
+clock cycles 8:
+a=18489, b=-21222, c=-392373558, expected=-392373558, Passed
+clock cycles 6:
+a=29116, b=-9062, c=-263849192, expected=-263849192, Passed
+clock cycles 10:
+a=10874, b=-6105, c=-66385770, expected=-66385770, Passed
+clock cycles 8:
+a=18502, b=-5013, c=-92750526, expected=-92750526, Passed
+clock cycles 8:
+a=8908, b=-14633, c=-130350764, expected=-130350764, Passed
+clock cycles 8:
+a=14861, b=-475, c=-7058975, expected=-7058975, Passed
+clock cycles 6:
+a=4577, b=21119, c=96661663, expected=96661663, Passed
+clock cycles 8:
+a=29544, b=-11594, c=-342533136, expected=-342533136, Passed
+clock cycles 6:
+a=7993, b=31116, c=248710188, expected=248710188, Passed
+clock cycles 6:
+a=11384, b=-7674, c=-87360816, expected=-87360816, Passed
+clock cycles 10:
+a=20938, b=-31942, c=-668801596, expected=-668801596, Passed
+clock cycles 10:
+a=19741, b=-29674, c=-585794434, expected=-585794434, Passed
+clock cycles 6:
+a=25328, b=-10986, c=-278253408, expected=-278253408, Passed
+clock cycles 8:
+a=29422, b=-7716, c=-227020152, expected=-227020152, Passed
+clock cycles 10:
+a=9931, b=-31181, c=-309658511, expected=-309658511, Passed
+clock cycles 6:
+a=29936, b=-7717, c=-231016112, expected=-231016112, Passed
+clock cycles 10:
+a=2642, b=-978, c=-2583876, expected=-2583876, Passed
+clock cycles 8:
+a=1748, b=-15228, c=-26618544, expected=-26618544, Passed
+clock cycles 8:
+a=18547, b=-29215, c=-541850605, expected=-541850605, Passed
+clock cycles 12:
+a=22177, b=-19378, c=-429745906, expected=-429745906, Passed
+clock cycles 8:
+a=4857, b=-6167, c=-29953119, expected=-29953119, Passed
+clock cycles 10:
+a=10786, b=3476, c=37492136, expected=37492136, Passed
+clock cycles 6:
+a=16443, b=-20777, c=-341636211, expected=-341636211, Passed
+clock cycles 8:
+a=16082, b=564, c=9070248, expected=9070248, Passed
+clock cycles 10:
+a=21592, b=-25801, c=-557095192, expected=-557095192, Passed
+clock cycles 10:
+a=26262, b=15587, c=409345794, expected=409345794, Passed
+clock cycles 8:
+a=29260, b=2882, c=84327320, expected=84327320, Passed
+clock cycles 8:
+a=21888, b=-8111, c=-177533568, expected=-177533568, Passed
+clock cycles 10:
+a=5977, b=-14747, c=-88142819, expected=-88142819, Passed
+clock cycles 4:
+a=14528, b=-513, c=-7452864, expected=-7452864, Passed
+clock cycles 10:
+a=8619, b=28272, c=243676368, expected=243676368, Passed
+clock cycles 8:
+a=29716, b=24800, c=736956800, expected=736956800, Passed
+clock cycles 6:
+a=2564, b=-9570, c=-24537480, expected=-24537480, Passed
+clock cycles 8:
+a=17661, b=18355, c=324167655, expected=324167655, Passed
+clock cycles 6:
+a=24567, b=22598, c=555165066, expected=555165066, Passed
+clock cycles 12:
+a=27061, b=27421, c=742039681, expected=742039681, Passed
+clock cycles 10:
+a=16709, b=-29340, c=-490242060, expected=-490242060, Passed
+clock cycles 8:
+a=18201, b=27528, c=501037128, expected=501037128, Passed
+clock cycles 6:
+a=1890, b=30919, c=58436910, expected=58436910, Passed
+clock cycles 8:
+a=6521, b=-32067, c=-209108907, expected=-209108907, Passed
+clock cycles 8:
+a=29125, b=-13287, c=-386983875, expected=-386983875, Passed
+clock cycles 6:
+a=30320, b=5441, c=164971120, expected=164971120, Passed
+clock cycles 10:
+a=13009, b=-25710, c=-334461390, expected=-334461390, Passed
+clock cycles 4:
+a=506, b=32627, c=16509262, expected=16509262, Passed
+clock cycles 8:
+a=32430, b=8058, c=261320940, expected=261320940, Passed
+clock cycles 8:
+a=29754, b=14944, c=444643776, expected=444643776, Passed
+clock cycles 6:
+a=10230, b=865, c=8848950, expected=8848950, Passed
+clock cycles 10:
+a=30442, b=13419, c=408501198, expected=408501198, Passed
+clock cycles 10:
+a=25274, b=32544, c=822517056, expected=822517056, Passed
+clock cycles 8:
+a=25841, b=-1632, c=-42172512, expected=-42172512, Passed
+clock cycles 6:
+a=546, b=13709, c=7485114, expected=7485114, Passed
+clock cycles 8:
+a=29748, b=2000, c=59496000, expected=59496000, Passed
+clock cycles 8:
+a=2631, b=-27392, c=-72068352, expected=-72068352, Passed
+clock cycles 10:
+a=21350, b=27254, c=581872900, expected=581872900, Passed
+clock cycles 10:
+a=26028, b=13703, c=356661684, expected=356661684, Passed
+clock cycles 6:
+a=32136, b=31304, c=1005985344, expected=1005985344, Passed
+clock cycles 8:
+a=14708, b=28906, c=425149448, expected=425149448, Passed
+clock cycles 6:
+a=15644, b=23705, c=370841020, expected=370841020, Passed
+clock cycles 8:
+a=25823, b=12383, c=319766209, expected=319766209, Passed
+clock cycles 8:
+a=9060, b=-24971, c=-226237260, expected=-226237260, Passed
+clock cycles 8:
+a=25723, b=-21491, c=-552812993, expected=-552812993, Passed
+clock cycles 10:
+a=17961, b=1912, c=34341432, expected=34341432, Passed
+clock cycles 8:
+a=4498, b=-26560, c=-119466880, expected=-119466880, Passed
+clock cycles 8:
+a=6074, b=-32652, c=-198328248, expected=-198328248, Passed
+clock cycles 6:
+a=24190, b=-913, c=-22085470, expected=-22085470, Passed
+clock cycles 10:
+a=20665, b=-22080, c=-456283200, expected=-456283200, Passed
+clock cycles 8:
+a=13223, b=-20497, c=-271031831, expected=-271031831, Passed
+clock cycles 6:
+a=17342, b=32095, c=556591490, expected=556591490, Passed
+clock cycles 10:
+a=26982, b=14454, c=389997828, expected=389997828, Passed
+clock cycles 12:
+a=13749, b=6359, c=87429891, expected=87429891, Passed
+clock cycles 8:
+a=2351, b=-31151, c=-73236001, expected=-73236001, Passed
+clock cycles 10:
+a=31013, b=-30003, c=-930483039, expected=-930483039, Passed
+clock cycles 6:
+a=24527, b=-13724, c=-336608548, expected=-336608548, Passed
+clock cycles 10:
+a=21988, b=16482, c=362406216, expected=362406216, Passed
+clock cycles 8:
+a=30323, b=25059, c=759864057, expected=759864057, Passed
+clock cycles 10:
+a=30358, b=28239, c=857279562, expected=857279562, Passed
+clock cycles 4:
+a=15480, b=-27692, c=-428672160, expected=-428672160, Passed
+clock cycles 8:
+a=12269, b=-28224, c=-346280256, expected=-346280256, Passed
+clock cycles 12:
+a=10857, b=-25534, c=-277222638, expected=-277222638, Passed
+clock cycles 12:
+a=28333, b=-6925, c=-196206025, expected=-196206025, Passed
+clock cycles 8:
+a=25579, b=16704, c=427271616, expected=427271616, Passed
+clock cycles 10:
+a=6315, b=25486, c=160944090, expected=160944090, Passed
+clock cycles 6:
+a=4735, b=-4700, c=-22254500, expected=-22254500, Passed
+clock cycles 8:
+a=1125, b=-17725, c=-19940625, expected=-19940625, Passed
+clock cycles 12:
+a=9517, b=3453, c=32862201, expected=32862201, Passed
+clock cycles 8:
+a=25558, b=16675, c=426179650, expected=426179650, Passed
+clock cycles 8:
+a=11269, b=10330, c=116408770, expected=116408770, Passed
+clock cycles 8:
+a=20872, b=-11708, c=-244369376, expected=-244369376, Passed
+clock cycles 8:
+a=19772, b=-2755, c=-54471860, expected=-54471860, Passed
+clock cycles 6:
+a=31888, b=10771, c=343465648, expected=343465648, Passed
+clock cycles 8:
+a=11763, b=25686, c=302144418, expected=302144418, Passed
+clock cycles 10:
+a=23449, b=7161, c=167918289, expected=167918289, Passed
+clock cycles 4:
+a=994, b=23177, c=23037938, expected=23037938, Passed
+clock cycles 12:
+a=22313, b=-15953, c=-355959289, expected=-355959289, Passed
+clock cycles 8:
+a=12897, b=-25951, c=-334690047, expected=-334690047, Passed
+clock cycles 8:
+a=10217, b=32224, c=329232608, expected=329232608, Passed
+clock cycles 8:
+a=22642, b=6221, c=140855882, expected=140855882, Passed
+clock cycles 4:
+a=3128, b=28289, c=88487992, expected=88487992, Passed
+clock cycles 10:
+a=9067, b=-20254, c=-183643018, expected=-183643018, Passed
+clock cycles 10:
+a=11415, b=-21774, c=-248550210, expected=-248550210, Passed
+clock cycles 8:
+a=26740, b=1486, c=39735640, expected=39735640, Passed
+clock cycles 6:
+a=28446, b=27090, c=770602140, expected=770602140, Passed
+clock cycles 10:
+a=27578, b=-2851, c=-78624878, expected=-78624878, Passed
+clock cycles 10:
+a=21416, b=-5467, c=-117081272, expected=-117081272, Passed
+clock cycles 6:
+a=7716, b=-5588, c=-43117008, expected=-43117008, Passed
+clock cycles 8:
+a=11718, b=-16602, c=-194542236, expected=-194542236, Passed
+clock cycles 10:
+a=5334, b=2030, c=10828020, expected=10828020, Passed
+clock cycles 6:
+a=16816, b=-12181, c=-204835696, expected=-204835696, Passed
+clock cycles 6:
+a=16655, b=-8220, c=-136904100, expected=-136904100, Passed
+clock cycles 12:
+a=23829, b=15292, c=364393068, expected=364393068, Passed
+clock cycles 10:
+a=23907, b=14996, c=358509372, expected=358509372, Passed
+clock cycles 6:
+a=31847, b=-7373, c=-234807931, expected=-234807931, Passed
+clock cycles 6:
+a=18942, b=10318, c=195443556, expected=195443556, Passed
+clock cycles 8:
+a=26435, b=19985, c=528303475, expected=528303475, Passed
+clock cycles 8:
+a=24114, b=22499, c=542540886, expected=542540886, Passed
+clock cycles 8:
+a=1837, b=13540, c=24872980, expected=24872980, Passed
+clock cycles 12:
+a=22875, b=28449, c=650770875, expected=650770875, Passed
+clock cycles 8:
+a=17128, b=-10916, c=-186969248, expected=-186969248, Passed
+clock cycles 6:
+a=27640, b=-7921, c=-218936440, expected=-218936440, Passed
+clock cycles 6:
+a=13024, b=-5656, c=-73663744, expected=-73663744, Passed
+clock cycles 10:
+a=23825, b=32235, c=767998875, expected=767998875, Passed
+clock cycles 8:
+a=17871, b=-7918, c=-141502578, expected=-141502578, Passed
+clock cycles 8:
+a=26184, b=-18202, c=-476601168, expected=-476601168, Passed
+clock cycles 8:
+a=12471, b=-20323, c=-253448133, expected=-253448133, Passed
+clock cycles 6:
+a=15843, b=24476, c=387773268, expected=387773268, Passed
+clock cycles 8:
+a=18562, b=24672, c=457961664, expected=457961664, Passed
+clock cycles 12:
+a=21334, b=16211, c=345845474, expected=345845474, Passed
+clock cycles 10:
+a=21986, b=10467, c=230127462, expected=230127462, Passed
+clock cycles 8:
+a=9438, b=-3077, c=-29040726, expected=-29040726, Passed
+clock cycles 10:
+a=28101, b=-15946, c=-448098546, expected=-448098546, Passed
+clock cycles 8:
+a=11758, b=-8993, c=-105739694, expected=-105739694, Passed
+clock cycles 8:
+a=13569, b=15251, c=206940819, expected=206940819, Passed
+clock cycles 8:
+a=30938, b=-3283, c=-101569454, expected=-101569454, Passed
+clock cycles 8:
+a=22498, b=-32199, c=-724413102, expected=-724413102, Passed
+clock cycles 8:
+a=2404, b=-470, c=-1129880, expected=-1129880, Passed
+clock cycles 12:
+a=21946, b=25092, c=550669032, expected=550669032, Passed
+clock cycles 4:
+a=24580, b=24882, c=611599560, expected=611599560, Passed
+clock cycles 8:
+a=18038, b=-21170, c=-381864460, expected=-381864460, Passed
+clock cycles 8:
+a=20583, b=32628, c=671582124, expected=671582124, Passed
+clock cycles 8:
+a=17910, b=-8825, c=-158055750, expected=-158055750, Passed
+clock cycles 8:
+a=3789, b=29033, c=110006037, expected=110006037, Passed
+clock cycles 6:
+a=28659, b=19476, c=558162684, expected=558162684, Passed
+clock cycles 6:
+a=12324, b=-30696, c=-378297504, expected=-378297504, Passed
+clock cycles 6:
+a=1774, b=-8470, c=-15025780, expected=-15025780, Passed
+clock cycles 10:
+a=10820, b=-9718, c=-105148760, expected=-105148760, Passed
+clock cycles 8:
+a=10760, b=-15128, c=-162777280, expected=-162777280, Passed
+clock cycles 10:
+a=2485, b=-10739, c=-26686415, expected=-26686415, Passed
+clock cycles 8:
+a=25884, b=-25098, c=-649636632, expected=-649636632, Passed
+clock cycles 8:
+a=6816, b=-26710, c=-182055360, expected=-182055360, Passed
+clock cycles 8:
+a=26014, b=10976, c=285529664, expected=285529664, Passed
+clock cycles 8:
+a=24179, b=31077, c=751410783, expected=751410783, Passed
+clock cycles 6:
+a=21502, b=24818, c=533636636, expected=533636636, Passed
+clock cycles 8:
+a=29235, b=8376, c=244872360, expected=244872360, Passed
+clock cycles 8:
+a=13505, b=32083, c=433280915, expected=433280915, Passed
+clock cycles 8:
+a=26270, b=-48, c=-1260960, expected=-1260960, Passed
+clock cycles 12:
+a=23241, b=29728, c=690908448, expected=690908448, Passed
+clock cycles 12:
+a=9621, b=2308, c=22205268, expected=22205268, Passed
+clock cycles 8:
+a=25704, b=-10418, c=-267784272, expected=-267784272, Passed
+clock cycles 8:
+a=31821, b=4120, c=131102520, expected=131102520, Passed
+clock cycles 10:
+a=27931, b=4414, c=123287434, expected=123287434, Passed
+clock cycles 6:
+a=2508, b=5429, c=13615932, expected=13615932, Passed
+clock cycles 6:
+a=17024, b=-28898, c=-491959552, expected=-491959552, Passed
+clock cycles 10:
+a=29858, b=30117, c=899233386, expected=899233386, Passed
+clock cycles 10:
+a=31307, b=14085, c=440959095, expected=440959095, Passed
+clock cycles 10:
+a=12101, b=-16816, c=-203490416, expected=-203490416, Passed
+clock cycles 8:
+a=23872, b=17867, c=426521024, expected=426521024, Passed
+clock cycles 10:
+a=30388, b=-25607, c=-778145516, expected=-778145516, Passed
+clock cycles 6:
+a=16836, b=28843, c=485600748, expected=485600748, Passed
+clock cycles 6:
+a=6320, b=9526, c=60204320, expected=60204320, Passed
+clock cycles 10:
+a=5426, b=-6503, c=-35285278, expected=-35285278, Passed
+clock cycles 8:
+a=29189, b=31283, c=913119487, expected=913119487, Passed
+clock cycles 6:
+a=2462, b=-29342, c=-72240004, expected=-72240004, Passed
+clock cycles 8:
+a=29091, b=30244, c=879828204, expected=879828204, Passed
+clock cycles 6:
+a=1593, b=-27001, c=-43012593, expected=-43012593, Passed
+clock cycles 8:
+a=20972, b=-4466, c=-93660952, expected=-93660952, Passed
+clock cycles 8:
+a=30227, b=18392, c=555934984, expected=555934984, Passed
+clock cycles 4:
+a=36, b=-17356, c=-624816, expected=-624816, Passed
+clock cycles 10:
+a=10761, b=-27694, c=-298015134, expected=-298015134, Passed
+clock cycles 8:
+a=565, b=-30240, c=-17085600, expected=-17085600, Passed
+clock cycles 8:
+a=31158, b=-8776, c=-273442608, expected=-273442608, Passed
+clock cycles 8:
+a=29538, b=9432, c=278602416, expected=278602416, Passed
+clock cycles 14:
+a=19114, b=1392, c=26606688, expected=26606688, Passed
+clock cycles 4:
+a=3078, b=-13539, c=-41673042, expected=-41673042, Passed
+clock cycles 6:
+a=1251, b=-26842, c=-33579342, expected=-33579342, Passed
+clock cycles 10:
+a=24298, b=-19612, c=-476532376, expected=-476532376, Passed
+clock cycles 6:
+a=15110, b=-17768, c=-268474480, expected=-268474480, Passed
+clock cycles 8:
+a=18356, b=-13612, c=-249861872, expected=-249861872, Passed
+clock cycles 10:
+a=16983, b=15940, c=270709020, expected=270709020, Passed
+clock cycles 6:
+a=14324, b=25730, c=368556520, expected=368556520, Passed
+clock cycles 8:
+a=25816, b=-9672, c=-249692352, expected=-249692352, Passed
+clock cycles 10:
+a=4791, b=22190, c=106312290, expected=106312290, Passed
+clock cycles 4:
+a=4144, b=-31055, c=-128691920, expected=-128691920, Passed
+clock cycles 8:
+a=18355, b=-15938, c=-292541990, expected=-292541990, Passed
+clock cycles 8:
+a=10438, b=-32133, c=-335404254, expected=-335404254, Passed
+clock cycles 6:
+a=16454, b=31989, c=526347006, expected=526347006, Passed
+clock cycles 6:
+a=31878, b=25862, c=824428836, expected=824428836, Passed
