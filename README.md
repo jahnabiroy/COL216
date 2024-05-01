@@ -2,7 +2,7 @@
 
 Personal repository for COL216 assignments - pardon mistakes!
 
-##### Assignments Overview
+## Assignments Overview
 
 **Assignment 0** - To implement booth multiplier (variable latency multiplier) and compare efficiency and performance with fixed latency multiplier.
 
